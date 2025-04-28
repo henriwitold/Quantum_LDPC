@@ -83,17 +83,32 @@ jupyter lab notebooks/
 ![Figure 1: Logical vs. Physical Error Rate](Results/Logical VS Physical Error Rate.png)  
 *Figure 1: Plots the logical error rate of the bicycle LDPC code against varying physical error rates, highlighting thresholds where logical protection becomes effective.*
 
+<img width="457" alt="Logical VS Physical Error Rate" src="https://github.com/user-attachments/assets/25e28d64-7788-4ce3-891c-dd364b9de08c" />
+
+
 ![Figure 2: Decoding Error Rate](Results/Decoding Error Rate.png)  
 *Figure 2: Displays the decoder’s raw error rate across noise levels, showcasing the robustness of BP-OSD decoding.*
+
+
+<img width="232" alt="Decoding Error Rate" src="https://github.com/user-attachments/assets/c097e86e-e556-4c26-a158-1407b5e07bed" />
+
 
 ![Figure 3: Decoding Performance](Results/Decoding Performance.png)  
 *Figure 3: Compares performance metrics between pure BP decoding and BP+OSD across different noise parameters.*
 
+<img width="458" alt="Decoding Performance" src="https://github.com/user-attachments/assets/a691c4ef-31b8-40d5-a849-eec0a898212c" />
+
+
 ![Figure 4: Hellinger Fidelity](Results/Hellinger Fidelity.png)  
 *Figure 4: Shows the Hellinger fidelity of the prepared logical state under ideal and noisy conditions, quantifying the match to the target distribution.*
 
+<img width="458" alt="Hellinger Fidelity" src="https://github.com/user-attachments/assets/634c27bc-ee27-42c6-ab3b-1562dd701af5" />
+
+
 ![Figure 5: Mirror Encoder Hellinger Fidelity](Results/Mirror Encoder Hellinger Fidelity.png)  
 *Figure 5: Presents fidelity results using mirror benchmarking methodology, simplifying the verification of encoding and decoding circuits.*
+
+<img width="231" alt="Mirror Encoder Hellinger Fidelity" src="https://github.com/user-attachments/assets/3f903813-109a-4fac-958d-9347b27e3ca8" />
 
 ---
 
