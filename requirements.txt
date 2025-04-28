@@ -1,0 +1,7 @@
+ qiskit
+ qiskit-aer
+ numpy
+ matplotlib
+ ipykernel
+ ldpc
+ git+https://github.com/abdullahkhalids/stac.git@main#egg=stac
